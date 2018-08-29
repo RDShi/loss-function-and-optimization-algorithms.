@@ -6,15 +6,15 @@ Just open the loss_function_experiment.ipynb with the jupyter notebook and you c
 
 cross entropy:
 
-![Fig1](./image/softmax.jpg)
+![Fig1](https://github.com/RDShi/loss_function/blob/master/image/softmax.jpg)
 
 center loss:
 
-![Fig2](./image/center.jpg)
+![Fig2](https://github.com/RDShi/loss_function/blob/master/image/center.jpg)
 
 triplet loss [1,2]:
 
-![Fig3](./image/triplet.jpg)
+![Fig3](https://github.com/RDShi/loss_function/blob/master/image/triplet.jpg)
 
 
 ----
