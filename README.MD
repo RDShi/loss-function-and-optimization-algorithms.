@@ -6,7 +6,7 @@ Just open the loss_function_experiment.ipynb with the jupyter notebook and you c
 
 cross entropy:
 
-![Fig1](https://github.com/RDShi/loss_function/blob/master/image/softmax.jpg)
+![Fig1](./image/softmax.jpg)
 
 center loss:
 
