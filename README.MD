@@ -19,4 +19,5 @@ triplet loss [1,2]:
 
 ----
 [1]Schroff F, Kalenichenko D, Philbin J. FaceNet: A unified embedding for face recognition and clustering[J]. 2015:815-823.
+
 [2]Li C, Ma X, Jiang B, et al. Deep Speaker: an End-to-End Neural Speaker Embedding System[J]. 2017.
