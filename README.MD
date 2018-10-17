@@ -1,6 +1,11 @@
-This repository contains the code for experiment on various loss functions.
+This repository contains the code for experiment on various loss functions and convergence of different optimization algorithms.
+
 The code is simple and easy to understand. 
-Just open the loss_function_experiment.ipynb with the jupyter notebook and you can understand all the processes and logic.
+
+Experiment on various loss functions: Just open the *loss_function_experiment.ipynb* with the jupyter notebook and you can understand all the processes and logic.
+
+Experiment on convergence of different optimization algorithms: You can use tensorbord to open the log file in logdir to see the convergence curve. The code is in *test_optimizer.py* and *optimizer_test.py*.
+
 
 ## Visualization
 
